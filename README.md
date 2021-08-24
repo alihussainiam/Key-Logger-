@@ -4,5 +4,3 @@ Keylogger with screen shot
     • The screen shot is taken one after other whenever you type anything .  
 
 -If u wants to close the exe file after u have run it then go to task manager and goto processor and exit from there.
-
- ENJOY AND  SPY ! 

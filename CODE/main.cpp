@@ -1,6 +1,4 @@
 /*
-Name :Bilal
-Roll No : 12k-2094
 Project  : Key Logger with Screen Shot
 Review :  "KEY-LOGGER is basically a spy based project. Any key strokes entered
 		by the user will  be stored in a file with the name of window it is working on.
